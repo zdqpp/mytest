@@ -30,5 +30,6 @@ public class Duifu
 		String resp = HttpClientHelper.postForm("http://123.57.149.63/vipcaibao/loanMatch/cashDubbo.html", map);
 //		String resp = HttpClientHelper.postForm("http://192.168.90.85:8090/caibao/loanMatch/cashDubbo.html", map);
 		System.out.println("·µ»Ø£º"+resp);
+		System.out.println("testssss");
     }
 }
